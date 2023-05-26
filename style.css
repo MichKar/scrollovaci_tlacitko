@@ -1,0 +1,21 @@
+body {
+    padding: 0px 80px;
+}
+
+.top-page {
+    border: 1px solid black;
+    width: 60px;
+    text-decoration: none;
+    display: none;
+    background-color: lightblue;
+    border-radius: 100px;
+    text-align: center;
+    position: fixed;
+    right: 5px;
+    bottom: 15px;
+    padding: 5px 10px;
+}
+
+a {
+    color: black;
+}
